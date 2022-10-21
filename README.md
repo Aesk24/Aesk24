@@ -4,12 +4,12 @@ I am currently a student in College
 
 [Contact](/least-github-pages/contact.html)
 
-_Favorite Foods_
+[_Favorite Foods_]
 
-_Favorite Colors_
+[_Favorite Colors_]
 
-**Favorite Monuments**
+[**Favorite Monuments**]
 
-**Favorite Video Games**
+[**Favorite Video Games**]
 
 
