@@ -2,6 +2,12 @@
 
 I am currently a student in College
 
-[Favorite Video Game](Favoite Foods)
-
 [Contact](/least-github-pages/contact.html)
+
+_Favorite Foods_
+
+_Favorite Colors_
+
+**Favorite Monuments**
+
+
